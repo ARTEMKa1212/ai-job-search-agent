@@ -1,0 +1,46 @@
+{
+  "name": "Alex Candidate",
+  "email": "you@example.com",
+  "phone": "",
+  "location": "United Kingdom",
+  "uk_residency_years": 1,
+  "work_authorization": [
+    "UK"
+  ],
+  "remote_preferred": true,
+  "education": [
+    "Bachelor's Degree in Computer Science"
+  ],
+  "degree_details": "Coursework included programming, OOP, algorithms, NumPy, Pandas and software requirements.",
+  "skills": {
+    "Python": "KNOW",
+    "JavaScript": "KNOW",
+    "Git": "KNOW",
+    "APIs": "KNOW",
+    "automation": "KNOW",
+    "data analysis": "KNOW",
+    "SQL": "LEARN_FAST",
+    "Docker": "LEARN_FAST",
+    "pytest": "LEARN_FAST",
+    "AWS": "LEARNABLE"
+  },
+  "projects": [
+    "a Python CLI that scores job descriptions against a JSON skill profile and never invents experience",
+    "a local YouTube Shorts pipeline with story, motion and quality gates"
+  ],
+  "employment": [
+    "Seasonal production work in the United Kingdom while finishing a Computer Science degree"
+  ],
+  "languages": [
+    "English"
+  ],
+  "language_levels": {
+    "English": "B2"
+  },
+  "commercial_experience_years": 0,
+  "target_roles": [
+    "Junior Python Developer",
+    "Automation Developer",
+    "Junior Data Analyst"
+  ]
+}
